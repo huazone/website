@@ -1,5 +1,6 @@
 ---
 title: Getting started
+description: Getting started
 order: 1
 ---
 ## What is Pages CMS?
